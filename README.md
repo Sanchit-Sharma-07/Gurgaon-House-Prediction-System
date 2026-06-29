@@ -40,6 +40,7 @@ The project uses a Gurgaon housing dataset containing property details such as:
 - Price
 
 ## Results
+
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/41f03945-07de-4e34-94c2-72093a05ff10" />
 
 ## Installation
