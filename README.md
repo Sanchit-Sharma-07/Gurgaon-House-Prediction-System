@@ -1,70 +1,130 @@
+# 🏠 Gurgaon House Prediction System
+
+A Machine Learning project that predicts house prices in Gurgaon using regression algorithms. This project involves data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation to build an accurate house price prediction model.
 
 ---
 
-# Gurgaon-House-Prediction-System
+## 📌 Features
 
-```markdown
-# 🏠 Gurgaon House Prediction System
-
-A Machine Learning web application that predicts house prices in Gurgaon based on user inputs using regression algorithms.
-
-## Features
-
-- House price prediction
-- User-friendly web interface
-- Data preprocessing
+- House price prediction using Machine Learning
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
 - Feature engineering
-- Machine Learning model
-- Interactive predictions
+- Model training and evaluation
+- Performance comparison of regression models
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - Python
 - Pandas
 - NumPy
-- Scikit-Learn
-- Flask
-- HTML
-- CSS
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
-## Dataset
+---
 
-The project uses a Gurgaon housing dataset containing property details such as:
+## 📂 Dataset
 
-- Area
+The dataset contains information about residential properties in Gurgaon, including:
+
+- Area (Sq. Ft.)
 - Bedrooms
 - Bathrooms
-- Longitutde
-- Lattitude
+- Latitude
+- Longitude
 - Monthly Income
-- Price
+- Property Price
 
-## Results
+---
 
-<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/41f03945-07de-4e34-94c2-72093a05ff10" />
+## 📸 Results
 
-## Installation
+<img src="https://github.com/user-attachments/assets/41f03945-07de-4e34-94c2-72093a05ff10" alt="Project Result" width="900"/>
 
-bash
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
 git clone https://github.com/Sanchit-Sharma-07/Gurgaon-House-Prediction-System.git
-
-pip install -r requirements.txt
-
-python app.py
-
-## Machine Learning Workflow
-Data Cleaning
-Exploratory Data Analysis
-Feature Engineering
-Model Training
-Model Evaluation
-Deployment
-Future Improvements
-XGBoost implementation
-Interactive maps
-Property recommendation system
-
-## Author
-
-Sanchit Sharma
 ```
+
+### Navigate to the project
+
+```bash
+cd Gurgaon-House-Prediction-System
+```
+
+### Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+### Open the notebook
+
+```bash
+jupyter notebook
+```
+
+Open the project notebook and run the cells sequentially.
+
+---
+
+## 📈 Project Workflow
+
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Selection
+- Model Training
+- Model Evaluation
+- Prediction
+
+---
+
+## 📁 Project Structure
+
+```text
+Gurgaon-House-Prediction-System/
+│
+├── Gurgaon House Prediction.ipynb
+├── housing.csv
+├── requirements.txt
+├── README.md
+└── images/
+```
+
+---
+
+## 🔮 Future Improvements
+
+- Train on larger datasets
+- Improve prediction accuracy
+- Experiment with XGBoost and Random Forest
+- Build a web application for deployment
+- Add real-time property price prediction
+
+---
+
+## 👨‍💻 Author
+
+**Sanchit Sharma**
+
+- 📊 Aspiring Data Scientist
+- 🐍 Python Developer
+
+GitHub: https://github.com/Sanchit-Sharma-07
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
